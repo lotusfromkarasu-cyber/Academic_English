@@ -33,21 +33,126 @@
 social media usage;&emsp;Body image;&emsp;Self-perception;&emsp;Self-identity.
 
 ### 作业提交表格格式
-| Title                      |      |      |           |     |
-|----------------------------|------|------|-----------|-----|
-| Group Members              |      |      |           |     |
-| 文献类型                       | 文献名称 | 文献出处 | 文献发表/出版时间 | 关联度 |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-|                            |      |      |           |     |
-| 英文文献在前，中文文献在后              |      |      |           |     |
-| 关联度：五级量表，以5星★★★★★为最关联，依次递减 |
+<table border=0 cellpadding=0 cellspacing=0 width=1027 style='border-collapse:
+ collapse;table-layout:fixed;width:769pt'>
+ <col width=146 style='mso-width-source:userset;mso-width-alt:4966;width:109pt'>
+ <col width=399 style='mso-width-source:userset;mso-width-alt:13602;width:299pt'>
+ <col width=191 style='mso-width-source:userset;mso-width-alt:6502;width:143pt'>
+ <col width=177 style='mso-width-source:userset;mso-width-alt:6041;width:133pt'>
+ <col width=114 style='mso-width-source:userset;mso-width-alt:3874;width:85pt'>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl65 width=146 style='height:17.25pt;width:109pt'>Title</td>
+  <td colspan=4 class=xl68 width=881 style='border-left:none;width:660pt'>　</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl65 style='height:17.25pt;border-top:none'>Group Members</td>
+  <td colspan=4 class=xl68 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='height:17.65pt'>
+  <td height=24 class=xl66 style='height:17.65pt;border-top:none'>文献类型</td>
+  <td class=xl66 style='border-top:none;border-left:none'>文献名称</td>
+  <td class=xl66 style='border-top:none;border-left:none'>文献出处</td>
+  <td class=xl66 style='border-top:none;border-left:none'>文献发表/出版时间</td>
+  <td class=xl66 style='border-top:none;border-left:none'>关联度</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl67 style='height:13.5pt;border-top:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+  <td class=xl67 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td colspan=5 height=18 class=xl69 style='height:13.5pt'>英文文献在前，中文文献在后</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td colspan=5 height=18 class=xl69 style='height:13.5pt'>关联度：五级量表，以5星★★★★★为最关联，依次递减</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=146 style='width:109pt'></td>
+  <td width=399 style='width:299pt'></td>
+  <td width=191 style='width:143pt'></td>
+  <td width=177 style='width:133pt'></td>
+  <td width=114 style='width:85pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
