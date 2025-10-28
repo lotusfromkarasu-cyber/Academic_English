@@ -157,3 +157,4 @@ social media usage;&emsp;Body image;&emsp;Self-perception;&emsp;Self-identity.
 </table>
 
 ### 文献收集及提交：<a href="https://shimo.im/file-invite/h2RjvMaxDygg6PU7mcUccg3mgkp06/ HALF 邀请您协作《文献收集》，点击链接开始编辑" target="_blank">在这里同步自己查找到的文献（石墨文档）</a>
+### 检索方法：<a href="https://chat.deepseek.com/share/q004qrb3ln9u0ks4wb" target="_blank">deep seek对话</a>
