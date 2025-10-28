@@ -3,6 +3,7 @@
 
 ## 数据库：https://lib.ecnu.edu.cn/
 <img width="264" height="317" alt="image" src="https://github.com/user-attachments/assets/6e79c2ac-e7bb-4e56-a381-ca6edaa80b99" />
+
 | 数据库名称 | 核心类型 | 主要特点与领域 |
 | :--- | :--- | :--- |
 | JSTOR | 全文数据库 | 人文社利回视期刊，过刊宣库 |
